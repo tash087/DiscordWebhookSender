@@ -1,0 +1,7 @@
+# ==========================================
+# DiscordWebhookSender Config by tash087
+# ==========================================
+
+webhook-url: "https://discord.com/api/webhooks/..."
+default-message: "サーバーからのお知らせ：現在メンテナンスの予定はありません。"
+bot-name: "Server-Bot"

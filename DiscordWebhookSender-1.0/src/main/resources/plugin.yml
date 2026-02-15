@@ -1,0 +1,8 @@
+name: DiscordWebhookSender
+version: 1.0.0
+main: jp.tash087.discordwebhook.DiscordWebhookSender
+api-version: '1.21'
+commands:
+  dw:
+    description: Discord Webhookコマンド
+    usage: /dw <message|default>
